@@ -1,9 +1,8 @@
 <template>
   <section class="container">
     <div>
-      <logo />
       <h1 class="title">
-        mewko.com
+        example.com
       </h1>
       <h2 class="subtitle">
         My portfolio
