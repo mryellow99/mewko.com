@@ -35,4 +35,13 @@ export default {
   top: 50%;
   left: 5%;
 }
+
+.top-contents h1 {
+  font-size: 2.5em;
+}
+
+.top-contents a {
+  color: #eee;
+  letter-spacing: 3px;
+}
 </style>
