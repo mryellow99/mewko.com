@@ -1,8 +1,8 @@
 <template>
   <nav>
-    <a href="/">profile</a>
-    <a href="/">wants</a>
-    <a href="/">works</a>
+    <a href="/profile">profile</a>
+    <a href="/wants">wants</a>
+    <a href="/works">works</a>
     <a href="/">contact</a>
   </nav>
 </template>
