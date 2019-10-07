@@ -24,10 +24,14 @@ export default {
   margin: 0 auto;
   min-height: 100vh;
   color: white;
+  /*width: 100%;
+  /*height: 100%;*/
 }
 
 .top-image {
   text-align: center;
+  width: 100%;
+  object-fit: contain;
 }
 
 .top-contents {
@@ -38,6 +42,17 @@ export default {
 
 .top-contents h1 {
   font-size: 2.5em;
+}
+
+@media screen and (max-width: 640px) {
+  .top-contents h1 {
+    font-size: 1.5em;
+  }
+  .top-image {
+    width: 100vw;
+    height: 146vw;
+    object-fit: cover;
+  }
 }
 
 .top-contents a {
