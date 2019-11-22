@@ -15,7 +15,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
 }
 
 *,
@@ -23,5 +23,18 @@ html {
 *:after {
   box-sizing: border-box;
   margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.flex-box {
+  display: flex;
+}
+.margin-bottom-64 {
+  margin-bottom: 64px;
 }
 </style>
