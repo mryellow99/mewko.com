@@ -1,10 +1,10 @@
 <template>
   <nav class="nav-menu">
-    <a href="/profile">top</a>
+    <a href="/">top</a>
     <a href="/profile">profile</a>
     <a href="/wants">wants</a>
     <a href="/works">works</a>
-    <a href="/">contact</a>
+    <a href="/#top-contact">contact</a>
   </nav>
 </template>
 

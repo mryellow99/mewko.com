@@ -22,7 +22,7 @@
         </p>
       </section>
     </section>
-    <a class="top-more-link" href="/">もっと見る</a>
+    <a class="top-more-link" href="/profile">もっと見る</a>
   </section>
 </template>
 
